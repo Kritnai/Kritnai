@@ -18,4 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kritnai&" alt="kritnai" /></p>
 
-![Snake animation](https://raw.githubusercontent.com/Kritnai/Kritnai/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Kritnai/Kritnai/blob/output/github-contribution-grid-snake.svg)
+
