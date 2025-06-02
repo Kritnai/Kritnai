@@ -1,4 +1,4 @@
-<h3 align="center">Thammasat Student. Seiner Year</h3>
+<h3 align="center">Hi👋. I'm Nai Kritsanai.who is senior student at TU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kritnai&label=Profile%20views&color=0e75b6&style=flat" alt="kritnai" /> </p>
 
